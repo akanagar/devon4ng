@@ -19,7 +19,7 @@
     "@angular/localize": "13.1.0",
     "@angular/platform-browser": "~13.1.0",
     "@angular/platform-browser-dynamic": "~13.1.0",
-    "@angular/router": "~13.1.0",
+    "@angular/router": "~13.3.1",
     "core-js": "^2.5.4",
     "my-library": "./my-library-v0.0.6.tgz",
     "rxjs": "~7.4.0",
